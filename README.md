@@ -20,3 +20,4 @@ CSS & HTML: Crafting beautiful and responsive web pages.<br/>
 Feel free to connect with me through the following platforms:
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/l0aft3r)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/l0aft3r)
