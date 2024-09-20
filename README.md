@@ -1,16 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B;It's+me+L0aft3r!)](https://git.io/typing-svg)
+Hi there! 👋
 
-<!--
-**l0aft3r/l0aft3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. I'm currently on an exciting journey to learn web development, focusing on React and other front-end technologies. This is a space where I document my learning process, share projects, and showcase what I've been working on.
 
-Here are some ideas to get you started:
+🌱 What I'm Currently Learning
+I'm diving deep into:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+React.js: Building dynamic and interactive web applications.
+JavaScript (ES6+): Core language for front-end development.
+CSS & HTML: Crafting beautiful and responsive web pages.
+
+💻 Skills and Tools
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,flask,git,vscode,discord,bootstrap,windows,discordjs,github,nodejs)](https://skillicons.dev)
