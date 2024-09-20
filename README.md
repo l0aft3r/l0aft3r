@@ -9,5 +9,5 @@ React.js: Building dynamic and interactive web applications.
 JavaScript (ES6+): Core language for front-end development.
 CSS & HTML: Crafting beautiful and responsive web pages.
 
-💻 Skills and Tools
+💻 Skills and Tools <br/>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,flask,git,vscode,discord,bootstrap,windows,discordjs,github,nodejs)](https://skillicons.dev)
