@@ -13,7 +13,7 @@ CSS & HTML: Crafting beautiful and responsive web pages.<br/>
 
 <h2>💻 Skills and Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,flask,git,vscode,discord,bootstrap,windows,discordjs,github,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,nodejs,webpack,flask,discordjs,bootstrap,git,vscode,discord,windows,github,)](https://skillicons.dev)
 
 ## 📫 Contact Me
 
